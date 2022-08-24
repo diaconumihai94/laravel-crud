@@ -14,3 +14,8 @@ This tutorial is created to illustrate the basic CRUD (Create , Read, Update, De
  * Run `php artisan serve`
 
  * Execute `start.sh` to install the app from scratch (contains all the steps above) 
+
+ * FOR ADMIN RIGHTS :
+
+    - email : admin@email.com
+    - password : password
